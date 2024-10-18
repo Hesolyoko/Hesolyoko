@@ -7,7 +7,7 @@ Here's a bit about me:
 - 🤔 I’m looking for help with deepening my knowledge on those tools, and any others that might come to create the best games I can!
 
 - 💭 Currently I have 2 of 11 planned games in some form of development, they being: 
-Homemade Havoc: The game about the "robot warrior" fighting "furniture-shaped monsters"...
+Homemade Havoc: The game about the "robot warrior" fighting "furniture-shaped monsters"...;
 Untitled Game: About a cook who has to mix ingredients to fight/feed zombie-behaving cultists.
 
 - 🌙 Fun facts: Aside from gaming, I have quite the interest for astronomy, and I hope to contribue somehow to this field!

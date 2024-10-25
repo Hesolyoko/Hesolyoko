@@ -2,7 +2,7 @@
 
 Here's a bit about me:
  
-- 🎮 I’m currently working on Game Dev, on the UGJ #100 and São Paulo's Game Jam Plus Online Site!
+- 🎮 I’m currently working on Game Dev, on the UGJ #100 (São Paulo's Online Site is over now)!
 - 👨‍💻 I’m currently learning Unreal 4 and 5, and the newer versions of Unity.
 - 🤔 I’m looking for help with deepening my knowledge on those tools, and any others that might come to create the best games I can!
 

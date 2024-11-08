@@ -1,8 +1,9 @@
 ## 🙋‍♂️Hey! Welcome to my profile! 
 
-<h3 align="left">Here's a bit about me: </h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hesolyoko&show_icons=true&locale=en" alt="hesolyoko" /></p>
+
+<h3 align="left">Here's a bit about me: </h3>
  
 - 🎮 I’m currently working on Game Dev!
 - 👨‍💻 I’m currently learning Unreal 4 and 5, and the newer versions of Unity. Also picking up a project on Node.js!

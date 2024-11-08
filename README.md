@@ -9,7 +9,7 @@
 
 - 💭 Currently I have 2 of 11 planned games in some form of development, they being: 
 Homemade Havoc: The game about the "robot warrior" fighting "furniture-shaped monsters";
-Untitled Game: About a cook who has to mix ingredients to fight/feed zombie-behaving cultists.
+Untitled Game: About a cook who has to mix ingredients to fight/feed cultists behaving like zombies.
 
 - 🌙 Fun facts: Aside from gaming, I have quite the interest for astronomy, and I hope to contribue somehow to this field!
 I also weirdly have an idea for a TV Series, which I might create the script along with the games, who knows!

@@ -27,6 +27,9 @@ I also weirdly have an idea for a TV Series, which I might create the script alo
 <h3 align="left">(Non-Hypertext Languages and Tools List)</h3>
 - Krita; Celtx;
 
+<p></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hesolyoko&show_icons=true&locale=en&layout=compact" alt="hesolyoko" /></p>
+
 <h2 align="left">📞Contact Me!</h2>
 <h3 align="left">Personal</h3>
 <p align="left">

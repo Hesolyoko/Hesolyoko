@@ -14,8 +14,6 @@ Untitled Game: About a cook who has to mix ingredients to fight/feed cultists be
 - 🌙 Fun facts: Aside from gaming, I have quite the interest for astronomy, and I hope to contribue somehow to this field!
 I also weirdly have an idea for a TV Series, which I might create the script along with the games, who knows!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hesolyoko&show_icons=true&locale=en&layout=compact" alt="hesolyoko" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hesolyoko&show_icons=true&locale=en" alt="hesolyoko" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hesolyoko&" alt="hesolyoko" /></p>
@@ -28,6 +26,9 @@ I also weirdly have an idea for a TV Series, which I might create the script alo
 
 <h3 align="left">(Non-Hypertext Languages and Tools List)</h3>
 - Krita
+- Celtx
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hesolyoko&show_icons=true&locale=en&layout=compact" alt="hesolyoko" /></p>
 
 <h2 align="left">📞Contact Me!</h2>
 <h3 align="left">Personal</h3>

@@ -21,3 +21,8 @@ I also weirdly have an idea for a TV Series, which I might create the script alo
 
 <h3 align="left">(Non-Hypertext Languages and Tools List)</h3>
 - Krita
+
+<h2 align="left">Contact Me!</h2>
+<h3 align="left">Personal</h3>
+<h3 align="left">Professional</h3>
+<h3 align="left">In-between</h3>

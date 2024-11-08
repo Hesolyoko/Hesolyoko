@@ -1,8 +1,5 @@
 ## 🙋‍♂️Hey! Welcome to my profile! 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hesolyoko&show_icons=true&locale=en" alt="hesolyoko" /></p>
-
 <h3 align="left">Here's a bit about me: </h3>
  
 - 🎮 I’m currently working on Game Dev!
@@ -38,3 +35,5 @@ I also weirdly have an idea for a TV Series, which I might create the script alo
 <p align="left">
 <a href="https://www.youtube.com/c/hesolyoko600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hesolyoko600" height="30" width="40" /></a>
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hesolyoko&show_icons=true&locale=en" alt="hesolyoko" /></p>

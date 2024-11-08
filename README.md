@@ -3,8 +3,9 @@
 Here's a bit about me:
  
 - 🎮 I’m currently working on Game Dev, on the UGJ #100 (São Paulo's Online Site is over now)!
-- 👨‍💻 I’m currently learning Unreal 4 and 5, and the newer versions of Unity.
+- 👨‍💻 I’m currently learning Unreal 4 and 5, and the newer versions of Unity. Also picking up a project on Node.js!
 - 🤔 I’m looking for help with deepening my knowledge on those tools, and any others that might come to create the best games I can!
+- ✏ On the topic of speaking and writing languages, I know Portuguese (Native Knowledge), English (Advanced Level) and Japanese (Elementary Level)
 
 - 💭 Currently I have 2 of 11 planned games in some form of development, they being: 
 Homemade Havoc: The game about the "robot warrior" fighting "furniture-shaped monsters";

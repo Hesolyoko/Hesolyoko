@@ -1,4 +1,4 @@
-## Hey! Welcome to my profile! 🙋‍♂️
+##🙋‍♂️ Hey! Welcome to my profile! 
 
 <h3 align="left">Here's a bit about me: </h3>
  

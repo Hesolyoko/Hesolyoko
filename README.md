@@ -12,7 +12,7 @@ Homemade Havoc: The game about the "robot warrior" fighting "furniture-shaped mo
 Project Orunburger: About a cook who has to mix ingredients to fight/feed cultists behaving like zombies;
 Project Esperomedas: About two opposite worlds colliding and disputing for conquest. (This one is a solo project)
 
-- 🌙 Fun facts: Aside from gaming, I have quite the interest for astronomy, and I hope to contribue somehow to this field!
+- 🌙 Fun facts: Aside from gaming, I have quite the interest for astronomy, and I hope to somehow get to contribute to this field!
 I also weirdly had an idea for a TV Series that now became the idea for a book!
 
 <h2 align="left">🛠Languages and Tools:</h2>

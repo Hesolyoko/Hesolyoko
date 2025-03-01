@@ -9,7 +9,7 @@
 
 - 💭 Currently I have 3 of 11 planned games in some form of development, they being: 
 Homemade Havoc: The game about the "robot warrior" fighting "furniture-shaped monsters";
-Project Orunburger: About a cook who has to mix ingredients to fight/feed cultists behaving like zombies.
+Project Orunburger: About a cook who has to mix ingredients to fight/feed cultists behaving like zombies;
 Project Esperomedas: About two opposite worlds colliding and disputing for conquest. (This one is a solo project)
 
 - 🌙 Fun facts: Aside from gaming, I have quite the interest for astronomy, and I hope to contribue somehow to this field!

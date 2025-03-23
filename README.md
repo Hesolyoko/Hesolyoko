@@ -24,4 +24,4 @@ I also weirdly had an idea for a TV Series that now became the idea for a book!
 - Krita; Celtx; Godot;
 
 <h2 align="left">🌲 I Planted a Tree! Check it Out!</h2>
-<p align="left"> <a href="linktr.ee/hesolyoko600" target="_blank" rel="noreferrer"> </a></p>
+<p align="left"> <a href="linktr.ee/hesolyoko600" target="_blank" rel="noreferrer"> "Linktree: Hesolyoko600" </a></p>

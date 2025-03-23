@@ -23,5 +23,5 @@ I also weirdly had an idea for a TV Series that now became the idea for a book!
 <h3 align="left">(Non-Hypertext Languages and Tools List)</h3>
 - Krita; Celtx; Godot;
 
-<h2 align="left">🌲 I Planted a Tree! Check it Out!</h2>
+<h2 align="left">🌲 I Have a Tree! Check it Out!</h2>
 <p align="left"> <a href="https://linktr.ee/hesolyoko600" target="_blank" rel="noreferrer"> "Linktree: Hesolyoko600" </a></p>

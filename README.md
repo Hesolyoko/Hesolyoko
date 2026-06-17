@@ -8,5 +8,7 @@
 
 - 💻 I guess I'm gonna stay off Game Dev for a while, but I'm coming back for sure.
 
+- 😤 I am still pissed of about the Canva incident, I will get better and remake that Sheet Template using Krita whenever I return to the project
+
 <h2 align="left">🌲 I Have a Tree! Check it Out!</h2>
 <p align="left"> <a href="https://linktr.ee/hesolyoko600" target="_blank" rel="noreferrer"> "Linktree: Hesolyoko600" </a></p>
